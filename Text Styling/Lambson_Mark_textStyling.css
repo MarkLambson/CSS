@@ -1,0 +1,29 @@
+h1 {
+    font-weight: 2000;
+    font-family: cursive; 
+    color: white;
+    background-color: black;
+    text-align: left;
+}
+
+.cloudColor {
+    color: lightskyblue;
+}
+
+h2 {
+    font-style: italic;
+    color: white;
+    background-color: purple;
+    text-align: center;
+    font-weight: 100;
+    font-family: monospace
+}
+
+h3 {
+    color: black;
+    text-decoration: underline;
+    background-color: rgb(108, 161, 211);
+    text-align: right;
+    font-weight:100;
+    font-family: cursive;
+}

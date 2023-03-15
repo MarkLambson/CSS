@@ -35,3 +35,9 @@ img {
     background-color: rgb(21, 96, 139);
     margin: 10px;
 }
+
+p {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
